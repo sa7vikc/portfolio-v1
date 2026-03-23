@@ -6,7 +6,7 @@ export const resumeLink = "/resume/Satvik Chandra.pdf";
 export const resumeLinkDrive =
   "https://drive.google.com/file/d/1ulQb3z3nZA4wFbL4D05mBrVxqKiCyvvM/view?usp=sharing";
 
-export const GithubUrl = "https://github.com/SattuSupari21";
+export const GithubUrl = "https://github.com/sa7vikc";
 export const LinkedInUrl = "https://www.linkedin.com/in/satvik-chandra";
 export const TwitterUrl = "https://x.com/samtuwu";
 export const DiscordUrl = "https://discord.com/users/672023890494488587";
@@ -21,7 +21,7 @@ export const projects = [
     shortAbout: "",
     about:
       "A scalable, production-grade backend for secure, adaptive video streaming, designed for modern web platforms and developer teams.",
-    sourceCode: "https://github.com/SattuSupari21/streamforge",
+    sourceCode: "https://github.com/sa7vikc/streamforge",
     techStack: [
       "Bun",
       "Express.ts",
@@ -52,7 +52,7 @@ export const projects = [
     shortAbout: "a web server written from scratch in typescript.",
     about:
       "A high-performance web server from scratch with support for static file serving, HTTP range requests, and chunked transfer encoding.",
-    sourceCode: "https://github.com/SattuSupari21/tsturbo",
+    sourceCode: "https://github.com/sa7vikc/tsturbo",
     techStack: [
       "Node.js",
       "TypeScript",
@@ -72,7 +72,7 @@ export const projects = [
     title: "lb.py",
     shortAbout: "a multithreaded load balancer written in python.",
     about: "A Multithreaded Load Balancer written from scratch using Python.",
-    sourceCode: "https://github.com/SattuSupari21/lb.py",
+    sourceCode: "https://github.com/sa7vikc/lb.py",
     techStack: [
       "Python",
       "Socket",
@@ -93,7 +93,7 @@ export const projects = [
     shortAbout: "my personal portfolio.",
     about:
       "My personal portfolio website created using Next.js and deployed on Vercel.",
-    sourceCode: "https://github.com/SattuSupari21/portfolio-v1",
+    sourceCode: "https://github.com/sa7vikc/portfolio-v1",
     techStack: [
       "Next.js",
       "Bun",
@@ -114,7 +114,7 @@ export const projects = [
     shortAbout: "a centralized platform to share links.",
     about:
       "Provides users with a centralized platform to share multiple links through a single customizable URL.",
-    sourceCode: "https://github.com/SattuSupari21/limktree",
+    sourceCode: "https://github.com/sa7vikc/limktree",
     techStack: [
       "Next.js",
       "Prisma",
@@ -139,7 +139,7 @@ export const projects = [
     shortAbout: "simple url shortner.",
     about:
       "A simple to use URL shortner created using Elysia.js with Bun runtime and Next.js.",
-    sourceCode: "https://github.com/SattuSupari21/shorty",
+    sourceCode: "https://github.com/sa7vikc/shorty",
     techStack: [
       "Elysia.js",
       "Next.js",
@@ -163,7 +163,7 @@ export const projects = [
     shortAbout: "full-stack e-commerce web app.",
     about:
       "Full-stack e-commerce web application created using Strapi CMS and Next.js.",
-    sourceCode: "https://github.com/SattuSupari21/styled",
+    sourceCode: "https://github.com/sa7vikc/styled",
     techStack: [
       "Strapi CMS",
       "Sqlite",
@@ -190,7 +190,7 @@ export const top_projects = [
       "scalable, production-grade backend for adaptive video streaming",
     about:
       "A scalable, production-grade backend for secure, adaptive video streaming, designed for modern web platforms and developer teams.",
-    sourceCode: "https://github.com/SattuSupari21/streamforge",
+    sourceCode: "https://github.com/sa7vikc/streamforge",
     techStack: [
       "Bun",
       "Express.ts",
@@ -220,7 +220,7 @@ export const top_projects = [
     shortAbout: "web server written from scratch in typescript.",
     about:
       "A high-performance web server from scratch with support for static file serving, HTTP range requests, and chunked transfer encoding.",
-    sourceCode: "https://github.com/SattuSupari21/tsturbo",
+    sourceCode: "https://github.com/sa7vikc/tsturbo",
     techStack: [
       "Node.js",
       "TypeScript",
@@ -240,7 +240,7 @@ export const top_projects = [
     title: "lb.py",
     shortAbout: "multithreaded load balancer written in python.",
     about: "A ultithreaded Load Balancer written from scratch using Python.",
-    sourceCode: "https://github.com/SattuSupari21/lb.py",
+    sourceCode: "https://github.com/sa7vikc/lb.py",
     techStack: [
       "Python",
       "Socket",
@@ -261,7 +261,7 @@ export const top_projects = [
     shortAbout: "centralized platform to share links.",
     about:
       "Provides users with a centralized platform to share multiple links through a single customizable URL.",
-    sourceCode: "https://github.com/SattuSupari21/limktree",
+    sourceCode: "https://github.com/sa7vikc/limktree",
     techStack: [
       "Next.js",
       "Prisma",
@@ -286,7 +286,7 @@ export const top_projects = [
     shortAbout: "simple url shortner.",
     about:
       "A simple to use URL shortner created using Elysia.js with Bun runtime and Next.js.",
-    sourceCode: "https://github.com/SattuSupari21/shorty",
+    sourceCode: "https://github.com/sa7vikc/shorty",
     techStack: [
       "Elysia.js",
       "Next.js",
